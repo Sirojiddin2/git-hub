@@ -1,7 +1,27 @@
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 50px;
+  height: 100px;
+  background-color: brown;
+  color: white;
+}
+
+.avaz {
+  height: 300px;
+  background-color: dodgerblue;
+  color: red;
+  font-size: 100px;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 .header{
     display: flex;
@@ -16,8 +36,13 @@
 .siroj{
     height: 250px;
     background-color: blue;
+.Furatbek{
+    height: 300px;
+    background-color: aqua;
     font-size: 100px;
     display: flex;
     justify-content: center;
     align-items: center;
+}
+    color: black;
 }
