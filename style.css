@@ -12,3 +12,12 @@
     background-color: brown;
     color: white;
 }
+.Furatbek{
+    height: 300px;
+    background-color: aqua;
+    font-size: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: black;
+}
